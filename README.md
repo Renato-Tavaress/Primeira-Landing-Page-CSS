@@ -6,5 +6,7 @@ Protótipo: https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?t
   
 ===========================================================================     
   
-- A idea era atingir o resultado mais proximo do protótipo!
-  
+- A idea era atingir o resultado mais proximo do protótipo!  
+
+===========================================================================  
+* Index e Assets na Branch Master *  
