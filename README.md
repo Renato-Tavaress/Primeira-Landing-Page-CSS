@@ -1,3 +1,4 @@
 # Primeira-Landing-Page-CSS
 ========================================================  
-Desenvolver o CSS de um protótipo HTML criado pelo curso!
+Foi proposto um projeto para desenvolver o CSS de um protótipo HTML criado pelo curso!  
+---------------------------------------------------------  
